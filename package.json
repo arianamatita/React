@@ -5,6 +5,7 @@
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
-    "@types/react": "^18.0.9"
+    "@types/react": "^18.0.9",
+    "gh-pages": "^4.0.0"
   }
 }
